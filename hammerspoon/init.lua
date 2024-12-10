@@ -1,3 +1,4 @@
+local hs = require("hs")
 
 ---Quake mode functionality. Toggle show or hide application.
 ---@param application string The name of the application.
